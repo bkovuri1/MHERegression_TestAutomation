@@ -1,0 +1,7 @@
+2019-11-21 23:16:30 INFO  BasePage:44 - Initialization of WebDriver started
+2019-11-21 23:16:53 INFO  ServiceHooks:26 - Verify if Site logo is displayed in the HomePage Started
+2019-11-21 23:17:16 INFO  ServiceHooks:42 - Verify if Site logo is displayed in the HomePage is Pass
+2019-11-21 23:17:18 INFO  BasePage:44 - Initialization of WebDriver started
+2019-11-21 23:17:38 INFO  ServiceHooks:26 - Intro message should not display in other pages Started
+2019-11-21 23:18:22 ERROR MHE_HeaderPage:119 - **Intro message is not present**
+2019-11-21 23:18:26 INFO  ServiceHooks:42 - Intro message should not display in other pages is Pass

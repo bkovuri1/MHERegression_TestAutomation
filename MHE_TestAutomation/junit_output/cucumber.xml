@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="2" time="117.261092">
+<testcase classname="MHE Regression Suite" name="Verify if Site logo is displayed in the HomePage" time="48.221938">
+<system-out><![CDATA[Given Navigate to MHE Home Page.............................................passed
+When Verify Sitelogo is displayed and Click.................................passed
+]]></system-out>
+</testcase>
+<testcase classname="MHE Regression Suite" name="Intro message should not display in other pages" time="69.039154">
+<system-out><![CDATA[Given Navigate to About Page................................................passed
+When Verify Sitelogo is displayed and Click.................................passed
+Then Verify HomePage is Loaded..............................................passed
+]]></system-out>
+</testcase>
+</testsuite>
